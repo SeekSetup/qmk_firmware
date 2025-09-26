@@ -25,3 +25,12 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/ilovbee/b87"]
+	path = keyboards/ilovbee/b87
+	url = git@github.com:EBADBEEF/ilovbee_b87.git
+[submodule "keyboards/royalkluge/r75"]
+	path = keyboards/royalkluge/r75
+	url = https://ghfast.top/https://github.com/iamdanielv/kb_rk_r75.git
+[submodule "keyboards/royalkluge/r65"]
+	path = keyboards/royalkluge/r65
+	url = https://ghfast.top/https://github.com/iamdanielv/kb_rk_r65.git
